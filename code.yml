@@ -6,3 +6,9 @@ property2: value2
 name: apple
 color: red
 weight: 90g
+
+#Exercise 3
+employee:
+  name: john
+  gender: male
+  age: 24 
