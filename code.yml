@@ -1,18 +1,24 @@
-#Exercise 1
+# Exercise 1
 property1: value1
 property2: value2
 
-#Excercise 2
+# Excercise 2
 name: apple
 color: red
 weight: 90g
 
-#Exercise 3
+# Exercise 3
 employee:
   name: john
   gender: male
   age: 24 
-  address:
+  address:  # Exercise 4 
     city: edison
     state: new jersey
     country: united states
+    
+# Exercise 8
+employees:
+- name: john
+  gender: male
+  age: 24
